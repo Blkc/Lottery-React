@@ -1,3 +1,9 @@
+src/lottery.js uses the address and ABI obtained by deploying Lottery from https://github.com/Blkc/Lottery
+
+Note: Assumes the client uses Metamask and src/web3.js uses Metamask provider for the accounts. 
+
+--------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
